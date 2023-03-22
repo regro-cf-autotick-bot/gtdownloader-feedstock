@@ -1,11 +1,11 @@
-About gtdownloader
-==================
+About gtdownloader-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gtdownloader-feedstock/blob/main/LICENSE.txt)
 
 Home: https://gtdownloader.readthedocs.io/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gtdownloader-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python package for the simple downloading of tweets with geographical information
 
