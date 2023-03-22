@@ -1,5 +1,5 @@
 {% set name = "gtdownloader" %}
-{% set version = "0.1.15" %}
+{% set version = "1.0.1" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,8 @@ package:
 
 source:
   url: "https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz"
-  sha256: 9f1762f829c64659585bb79f6e4cffb6aebc75b2af602a57cc6d12a625c0ce26
+  sha256: 2cc354e1a8ab5b30d057bbe9db57372d8d43b00976cc0c5214dec64abcadd5a0
+   
 
 build:
   number: 0
